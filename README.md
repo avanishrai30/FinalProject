@@ -1,4 +1,4 @@
-# FinalProject
+# Future Ready Talent Project by Avanish Rai
 Future ready talent final project, This project is all about easy way to resolve fashion related problems.
 Through this website fashion designer get easily connected with highly professional and customer can directly appoint there own tailor as per there requirement.
 ## Website Link https://brave-glacier-0cca53f10.1.azurestaticapps.net/
